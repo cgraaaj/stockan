@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 
 
-from sector import Sector
+from stock_analyzer.sector import Sector
 from dateutil.relativedelta import relativedelta
 from nsetools.yahooFinance import YahooFinance as yf
 from nsetools.nse import Nse

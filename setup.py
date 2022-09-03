@@ -25,7 +25,7 @@ setup(
     author_email="cgr.6713@gmail.com",
     keywords="Stockan",
     license="MIT",
-    packages=["stock_analyzer"],
+    packages=["stock_analyzer",'nsetools'],
     install_requires=reqs,
     include_package_data=True,
 )

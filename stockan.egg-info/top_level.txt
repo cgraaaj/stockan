@@ -1,0 +1,2 @@
+nsetools
+stock_analyzer
